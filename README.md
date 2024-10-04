@@ -1,2 +1,3 @@
 # First
-Havtober
+Hello everyone one this is my first repository...
+
